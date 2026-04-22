@@ -13,7 +13,7 @@ import AdminDashboard from "./pages/AdminDashboard";
 
 
 
-export const ServerUrl= "http://localhost:8000"
+export const ServerUrl= "https://interviewiq-ai-9kvo.onrender.com"
 
 function App(){
 
