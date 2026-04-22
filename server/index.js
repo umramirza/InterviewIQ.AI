@@ -14,7 +14,7 @@ import adminRouter from "./routes/admin.route.js";   // ← top pe imports ke sa
 
 const app = express()
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://interviewiq-ai-client-1lxj.onrender.com",
     credentials:true
 }))
 
